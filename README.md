@@ -1,5 +1,12 @@
 # Dungeo-Crawler-Game
-**Dungeon Escape** é um jogo de aventura e *roguelike* tático baseado em texto, jogado diretamente no terminal e desenvolvido inteiramente na linguagem **C**. 
+## Historia
+Há muitos anos, uma poderosa criatura foi derrotada e selada nas profundezas de uma antiga masmorra próxima a uma pequena vila. Durante gerações, a paz reinou e a existência da masmorra foi esquecida pelos moradores.
+
+Recentemente, acontecimentos estranhos começaram a ocorrer. Monstros surgiram nos arredores da vila e pessoas passaram a desaparecer misteriosamente. Os anciãos descobriram que o selo que mantinha a criatura aprisionada está enfraquecendo.
+
+Para impedir que o mal volte a se espalhar pelo mundo, um aventureiro é enviado para explorar a masmorra. Sua missão é atravessar todos os andares, resolver os desafios, derrotar os monstros que protegem o caminho e enfrentar o Boss Final escondido no último nível.
+
+O destino da vila está em suas mãos.
 
 O objetivo é simples, mas desafiador: escolher sua arma na vila, invadir uma masmorra perigosa, desviar de armadilhas de espinhos, derrotar monstros com padrões de IA diferentes e, finalmente, derrubar o temível Necromante no Andar 3.
 
