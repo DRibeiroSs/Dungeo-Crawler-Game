@@ -71,6 +71,12 @@ Este projeto foi orgulhosamente desenvolvido por:
 
 ---
 
+## 🔧Ferramentas Usadas
+
+* Auxilio Gemini Ai e Claude Ai
+
+---
+
 ## 🚀 Como Compilar e Executar
 
 ### Pré-requisitos
