@@ -1,5 +1,5 @@
 # Dungeo-Crawler-Game
-## Historia
+## 📜 Historia
 Há muitos anos, uma poderosa criatura foi derrotada e selada nas profundezas de uma antiga masmorra próxima a uma pequena vila. Durante gerações, a paz reinou e a existência da masmorra foi esquecida pelos moradores.
 
 Recentemente, acontecimentos estranhos começaram a ocorrer. Monstros surgiram nos arredores da vila e pessoas passaram a desaparecer misteriosamente. Os anciãos descobriram que o selo que mantinha a criatura aprisionada está enfraquecendo.
@@ -9,6 +9,20 @@ Para impedir que o mal volte a se espalhar pelo mundo, um aventureiro é enviado
 O destino da vila está em suas mãos.
 
 O objetivo é simples, mas desafiador: escolher sua arma na vila, invadir uma masmorra perigosa, desviar de armadilhas de espinhos, derrotar monstros com padrões de IA diferentes e, finalmente, derrubar o temível Necromante no Andar 3.
+
+---
+
+## 📸 Telas do Jogo
+
+<div align="center">
+  <img src="assets/menu.png" alt="Menu do Jogo" width="45%">
+  <img src="assets/vila.png" alt="Vila e NPC" width="45%">
+</div>
+<br>
+<div align="center">
+  <img src="assets/andar1.png" alt="Masmorra Andar 1" width="45%">
+  <img src="assets/andar2.png" alt="Masmorra Andar 2" width="45%">
+</div>
 
 ---
 
